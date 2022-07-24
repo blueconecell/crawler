@@ -16,3 +16,5 @@
  [이 주소]()에서 이미지를 검색하여 다운받습니다.<br>
  위에서 설명한 방식과 같은 과정을 통해 이미지를 크롤링 합니다.<br>
 - [코드](https://github.com/blueconecell/crawler/blob/main/crawling_naver.ipynb)
+- [사진 원본으로 받을 수 있는 코드](https://github.com/blueconecell/crawler/blob/main/crawling_raw_images_naver.ipynb)
+  - 원본사진으로 받게 되면 사진 한장당 2초이상 소요되며 1,000장에 약 33분이 소요됩니다.
