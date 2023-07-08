@@ -13,7 +13,7 @@
 
 ## 네이버에서 이미지 크롤링하기
  구글에서 이미지 크롤링하는 코드와 마찬가지로 셀레니움 4.0.0 버전을 이용하였습니다.<br>
- [이 주소]()에서 이미지를 검색하여 다운받습니다.<br>
+ [이 주소](https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query=)에서 이미지를 검색하여 다운받습니다.<br>
  위에서 설명한 방식과 같은 과정을 통해 이미지를 크롤링 합니다.<br>
 - [코드](https://github.com/blueconecell/crawler/blob/main/crawling_naver.ipynb)
 - [사진 원본으로 받을 수 있는 코드](https://github.com/blueconecell/crawler/blob/main/crawling_raw_images_naver.ipynb)
